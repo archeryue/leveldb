@@ -6,3 +6,10 @@
 # Build directory.
 build/
 out/
+
+CMakeCache.txt
+CMakeFiles/
+Makefile
+compile_commands.json
+include/port/
+*.cmake
